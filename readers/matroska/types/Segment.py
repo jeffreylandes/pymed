@@ -2,7 +2,7 @@ from typing import Optional
 
 from readers.matroska.types.Attachments import Attachments
 from readers.matroska.types.Chapters import Chapters
-from readers.matroska.types.Cluster import Cluster
+from readers.matroska.types.Cluster.Cluster import Cluster
 from readers.matroska.types.Cues import Cues
 from readers.matroska.types.Info.Info import Info
 from readers.matroska.types.SeekHead.SeekHead import SeekHead
