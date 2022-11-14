@@ -1,4 +1,4 @@
-from readers.matroska.types.Chapters import ChapterDisplay
+from readers.matroska.matroska_types.Chapters import ChapterDisplay
 
 
 class ChapterAtom:

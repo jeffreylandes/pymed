@@ -1,4 +1,4 @@
-from readers.matroska.types.Tags import Targets, SimpleTag
+from readers.matroska.matroska_types.Tags import Targets, SimpleTag
 
 
 class Tag:

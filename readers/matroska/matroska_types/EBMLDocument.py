@@ -1,4 +1,4 @@
-from readers.matroska.types import Segment, EBMLHeader
+from readers.matroska.matroska_types import Segment, EBMLHeader
 
 
 class EBMLDocument:

@@ -1,6 +1,6 @@
 from typing import List
 
-from readers.matroska.types.EBMLDocument import EBMLDocument
+from readers.matroska.matroska_types.EBMLDocument import EBMLDocument
 
 
 class Matroska:

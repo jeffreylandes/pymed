@@ -1,6 +1,6 @@
 from typing import List
 
-from readers.matroska.types.SeekHead.Seek import Seek
+from readers.matroska.matroska_types.SeekHead.Seek import Seek
 
 
 class SeekHead:

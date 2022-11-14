@@ -1,7 +1,7 @@
 from typing import Optional
 
-from readers.matroska.types.Tracks.VideoTrack import VideoTrack
-from readers.matroska.types.Tracks.AudioTrack import AudioTrack
+from readers.matroska.matroska_types.Tracks.VideoTrack import VideoTrack
+from readers.matroska.matroska_types.Tracks.AudioTrack import AudioTrack
 
 
 class TrackEntry:

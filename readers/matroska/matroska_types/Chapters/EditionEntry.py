@@ -1,4 +1,4 @@
-from readers.matroska.types.Chapters import ChapterAtom
+from readers.matroska.matroska_types.Chapters import ChapterAtom
 
 
 class EditionEntry:
